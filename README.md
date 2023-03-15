@@ -1,1 +1,1 @@
-# prueba1
+Hemos creado dos ramas que son dos copias de la main, hemos modificado tanto 1 como 2 y las hemos fusionado con la rama main. Esto nos ha generado un conflicto porque en ambas ramas hemos tocado las mismas lineas resolviendolo eligiendo el cambio entrante.
